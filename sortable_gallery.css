@@ -1,0 +1,41 @@
+
+a, a:visited{color:#00f;}
+
+img.background{position:fixed; right:0px; bottom:0px;} 
+
+.gallery{width:80% margin:0px auto; position:relative}
+
+.gallery .sorting
+.container {margin:0px 0px 15px 0px; border:1px solid #6d4d2e;background color:rgba(109,77,46,.3);}
+
+.gallery .sorting
+.container
+span{padding:0px 20px 0px 0px; color:#6d4d2e; font-style:italic;}
+
+.gallery .sorting
+.container div {margin: 10px 0px 10px 10px;}
+
+.gallery .sorting a{color:#000000;
+    text-decoration: none;
+    font-size: .85em;
+    text-transform:uppercase;
+    padding :30px 20px 3px 20px;
+background: url(check_normal.gif) no-repeat 0px 3px;
+}
+
+
+.galllery .sorting 
+a:hover {color:#e5aa2c;}
+
+.gallery .sorting 
+a.selected{color: #e5aa2c;
+text-decoration: underline;
+background-image: url(check_selected.gif);}
+
+
+.gallery .photos .thumbnail_container{position:relative;}
+.gallery .photos .thumbnail_container .div{display:inline; padding:10px;}
+.gallery .photos
+.thumbnail_container a.thumbnail{position: absolute;}
+
+.gallery .photos .thumbnail_container a.thumbnail img{ width:75px; height:75px; border:1px solid #6d4d2e;}
